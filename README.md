@@ -1,7 +1,5 @@
 # 📚 fungsi-python
 
-Kumpulan materi belajar **Fungsi di Python** yang saya pelajari tanggal **26 Mei 2025**.
-
 ## 📄 Daftar Materi
 
 - `fungsi.py` → Dasar Function Definition (`def`)
